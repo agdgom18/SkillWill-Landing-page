@@ -58,6 +58,7 @@ a:hover {
 
 .projects {
   padding-bottom: 40px;
+  padding-bottom: 40px;
 }
 .title {
   font-weight: 700;
@@ -65,11 +66,13 @@ a:hover {
   line-height: 56px;
   margin: 94px 0 83px;
   padding-left: 43px;
+  padding-left: 43px;
 }
 .text__blue {
   color: #16b8f3;
 }
 .project__inner {
+  padding: 0 46px;
   padding: 0 46px;
 }
 .project {
@@ -93,6 +96,9 @@ a:hover {
   object-fit: cover;
 }
 
+.main {
+  padding: 0 20px;
+}
 .main {
   padding: 0 20px;
 }
